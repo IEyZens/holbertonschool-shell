@@ -1,2 +1,2 @@
 #!bin/bash
-chgrp owner hello
+chgrp group owner hello
