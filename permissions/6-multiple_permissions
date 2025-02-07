@@ -1,3 +1,2 @@
 #!/bin/bash
-chgrp u+x hello
 chmod o+r hello
