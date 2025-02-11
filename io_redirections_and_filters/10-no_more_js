@@ -1,2 +1,2 @@
 #!/bin/bash
-find . type f -iname ".js"
+find . -type f -maxdepth 2 -empty -ok rm {} \;
