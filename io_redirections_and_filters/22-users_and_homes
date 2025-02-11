@@ -1,2 +1,2 @@
 #!/bin/bash
-sort -t | cat
+sort -t -k1 | cat
