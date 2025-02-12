@@ -1,2 +1,2 @@
 #!/bin/bash
-source TRUEKNOWLEDGE
+echo "$TRUEKNOWLEDGE\n"
